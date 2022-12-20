@@ -4,6 +4,6 @@ using namespace std;
 
 int main() 
 { 
-    cout << "Hello, world!" << endl; // Только для тех, у кого MS Visual Studio
+    cout << "Hello, world!" << endl;
     return 0; 
 }
